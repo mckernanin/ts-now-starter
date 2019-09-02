@@ -1,0 +1,3 @@
+mutation HelloUser($user: String) {
+  helloUser(user: $user)
+}
